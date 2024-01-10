@@ -1,0 +1,15 @@
+button{
+    display: inline;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+}
+
+.cotainer {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(36, 36, 36);
+  color: #fff;
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.container{
+   margin: 20px;
+   padding: 20px;
+   background-color: #000000;
+   cursor: pointer;
+}
+
+.question-section{
+    display: flex;
+    justify-content: space-between;
+    width: 50rem;
+}
+
+.answer-class p{
+  line-height: 1.3rem;
+  width: 40rem;
+  /* padding: 20px 0; */
+  transition: 0.1;
+}
